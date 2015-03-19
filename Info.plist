@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>contactEmailRot13</key>
+<string>janlindblom@fastmail.fm</string>
+<key>contactName</key>
+<string>Jan Lindblom</string>
+<key>description</key>
+<string>Colour schemes for TextMate inspired by iA Writer.</string>
+<key>name</key>
+<string>Pencil Dark &amp; Pencil Light</string>
+<key>uuid</key>
+<string>8E45D3E8-CADB-4049-AE2B-6C7D29E16AB1</string>
+</dict>
+</plist>
